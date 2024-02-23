@@ -13,10 +13,8 @@ The detection of machine-generated text has become increasingly important due to
 To use the code provided in the notebook, follow these steps:
 
 ``` bash
-# Clone the repository:
-git clone https://github.com/yourusername/machine-generated-text-detection.git
-
-# Install the necessary dependencies. You can use pip:
+# 1. Clone the repository:
+# 2. Install the necessary dependencies. You can use pip:
 pip install -r requirements.txt
 ```
 
