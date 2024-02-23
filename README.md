@@ -23,9 +23,7 @@ Follow the instructions and execute the cells to perform machine-generated text 
 
 ## Citation
 
-If you find this work useful for your research, please consider citing the paper:
-
-[Author(s), "Title of the Paper," Proceedings of Semeval 2024 - Task 8, Year.]
+If you find this work valuable for your research, please consider citing the relevant paper or source for the transformer model used.
 
 ## License
 
